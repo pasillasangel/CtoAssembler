@@ -3,7 +3,7 @@ Programas en Esamblador (C to essambler)
 
 **Preparativos: (as root)**
 - apt-get install gcc
-- apt-get apt-get install build-essential 
+- apt-get install build-essential 
 
 > **C to assambler**
 > - gcc -S myfile.c
