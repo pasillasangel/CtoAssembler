@@ -19,7 +19,7 @@
 int main()
 {
     float d, p;
-    print("Ingrese distancia: ");
+    printf("Ingrese distancia: ");
     scanf("%f", &d);
     d = d * d;
     p = (300 / d);

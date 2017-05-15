@@ -34,4 +34,6 @@ int main()
 
     printf(" - Elevacion = ");
     printf("%f", elevacion);
+
+    return 0;
 }
